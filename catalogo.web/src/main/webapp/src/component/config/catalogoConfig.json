@@ -1,0 +1,9 @@
+{
+    "displayName" : "Catalogo",
+    "name" : "catalogo",
+    "templateName" : "catalogo",
+    "url" : "user.html",
+    "server": "localhost:8080",
+    "context": "/catalogo.service.subsystem.web/webresources/Catalogo",
+    "el" : "#main"
+}
